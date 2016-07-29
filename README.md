@@ -11,4 +11,5 @@ Wrapper for document function that is run in the APIreadmaster.R file.  PUlls al
 ## Download pdf File Looping.R
 Script to create an httr request to the Regulations.gov website and request a file download for a specific list of document ids
 
-
+## concatAPIcomments.R
+Takes the comments downloaded by day in the Download pdf File Looping.R script and creates a data frame of comments and document IDs
