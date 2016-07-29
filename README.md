@@ -8,4 +8,7 @@ Creates a function called documents that can be called to request document/docke
 ## APIdateloop.R
 Wrapper for document function that is run in the APIreadmaster.R file.  PUlls all API documents by date and docket ID within API limits
 
+## Download pdf File Looping.R
+Script to create an httr request to the Regulations.gov website and request a file download for a specific list of document ids
+
 
