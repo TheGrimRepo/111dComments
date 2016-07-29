@@ -18,4 +18,4 @@ Takes the comments downloaded by day in the Download pdf File Looping.R script a
 Runs text cleaning and unwraps text into one long string to get read for combining with pdf sourced comments
 
 ## mergecleanpdf
-Scripts for converting binary pdf files to txt files.  Consolidates txt files and cleans and unwraps the data into one long string
+Runs text cleaning and unwraps text into one long string to get read for combining with api sourced comments
