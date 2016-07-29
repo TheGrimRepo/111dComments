@@ -16,3 +16,6 @@ Runs text cleaning and unwraps text into one long string to get read for combini
 
 ## mergecleanpdf
 Runs text cleaning and unwraps text into one long string to get read for combining with api sourced comments
+
+##combinedComments.R
+Brings together the public comments pulled from the API and dowloaded from Regulations.gov
